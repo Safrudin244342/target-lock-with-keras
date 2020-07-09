@@ -16,7 +16,7 @@ Choice tagert
 
 <img src="doc/searchTarget.png">
 
-After training, program wash can track the target
+After training, program was can track the target
 
 
 <img src="doc/targetLock.png">
